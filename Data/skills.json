@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 1,
+    "Category": "Programming Languages",
+    "SkillsList": [
+      "Java",
+      "Python",
+      "C# (.NET CORE, MVC)",
+      "C",
+      "Matlab",
+      "HTML",
+      "CSS3",
+      "JavaScript",
+      "SQL",
+      "JSON",
+      "GO"
+    ]
+  },
+  {
+    "Id": 2,
+    "category": "Java Frameworks",
+    "skillsList": [
+      "Springboot",
+      "JDBC",
+      "Apache hadoop"
+    ]
+  },
+  {
+    "Id": 3,
+    "category": "Python Frameworks",
+    "skillsList": [
+      "Pandas",
+      "Numpy",
+      "Scikit-learn"
+    ]
+
+  },
+  {
+    "Id": 4,
+    "category": "Cloud Service",
+    "skillsList": [
+      "Docker",
+      "Kubernates",
+      "AWS",
+      "GCP",
+      "Azure"
+    ]
+  },
+  {
+    "Id": 5,
+    "category": "Database Management",
+    "skillsList": [
+      "Azure SQL",
+      "Oracle SQL",
+      "MS SQL Server",
+      "Sqlite3",
+      "Entity Framework"
+    ]
+  },
+  {
+    "Id": 6,
+    "category": "Machine Learning and Data Science",
+    "skillsList": [
+      "Linear Regression with matlab",
+      "Logistic Regrssion with matlab",
+      "Support Vector Machine with matlab",
+      "Deep Learning with matlab",
+      "Clustering with python",
+      "Data Mining with python"
+    ]
+  }
+
+]

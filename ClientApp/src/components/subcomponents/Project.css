@@ -1,0 +1,12 @@
+﻿.project-links {
+    padding-right: 7px;
+}
+
+.project-image {
+    padding: 5px;
+}
+
+.dark-mode .project-body {
+    background-color: #10171d;
+    color: #ffffff;
+}

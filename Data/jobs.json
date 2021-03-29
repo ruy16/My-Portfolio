@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "CompanyName": "HuaWei",
+    "Logo": "poke1.jpg",
+    "JobTitle": "Intern",
+    "StartDate": "May 2018",
+    "EndDate": "July 2018",
+    "Location": "Yichun, Jiangxi,China",
+    "JobDuties": [
+      "Learn about cloud infrastructure",
+      "Data gathering and resource planning",
+      "Writing daily reports"
+    ]
+  },
+  {
+    "Id": 2,
+    "CompanyName": "NewCity Construction",
+    "Logo": "poke2.jpg",
+    "JobTitle": "Office Assistant",
+    "StartDate": "May 2017",
+    "EndDate": "July 2017",
+    "Location": "Yichun, Jiangxi,China",
+    "JobDuties": [
+      "Data and file management with excel",
+      "Front desk Reception"
+    ]
+  }
+]

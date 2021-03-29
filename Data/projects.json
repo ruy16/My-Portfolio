@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Title": "Modernized checknet app for Intalere",
+    "Description": "An app to validate and submitt hospital discharge information.Built in .NET Core(back-end api) and React.js.This is a prototype",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/Team-project-Intalere-Data-Submission-App",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+  {
+    "Id": 2,
+    "Title": "Data Analytics HealthyRidePGH",
+    "Description": "An analytical program that takes real-world data from HealthyRidePGH,bike rental in Pittsburgh,supports queries such as which bike has the most usage during a year,quarter,month,day. It also generates several reports of the total rental usage during different time frame. Written in Python. ",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/Data-Science-Term-project",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+
+  {
+    "Id": 3,
+    "Title": "Olympics Games DataBase Management Application",
+    "Description": "A Java console application that manages large volumes of data from the past Olympic games. Built with JAVA and PLSQL. It requires a new server to run. ",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/1555-project",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+
+  {
+    "Id": 4,
+    "Title": "Website About AI",
+    "Description": "A blog on the topic of AI written in pure HTML",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/Website-AI",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+
+  {
+    "Id": 5,
+    "Title": "Microservices WebApp",
+    "Description": "A webapp that provides links to access to a dozen of applications that can run directly in your web broser without installing any of them on your computer. Built with docker compose, C# .net",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/Cloud-Term-Project-Microservices",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+
+  {
+    "Id": 6,
+    "Title": "Virtual File system with FUSE",
+    "Description": "A Fuse based-File System Functional file system that supports operations like mkdir,ls, create file etc.Written in C",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "ruy16/OS-File-System",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  }
+]

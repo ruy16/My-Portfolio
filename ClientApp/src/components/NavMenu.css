@@ -1,0 +1,26 @@
+﻿a.navbar-brand {
+    color: #00ffff;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.light-mode .body-nav{
+    color:#000000 !important
+}
+.dark-mode .body-nav{
+    color:#ffffff !important
+}
